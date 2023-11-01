@@ -14,7 +14,7 @@ namespace SimpleFeedReader.Controllers.MVC
 			return View();
 		}
 
-		public IActionResult generic()
+		public IActionResult Generic()
 		{
 			return View();
 		}
